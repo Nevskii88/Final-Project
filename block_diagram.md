@@ -1,2 +1,2 @@
 **Блок схема:**
-![Блок-схема](https://af.attachmail.ru/cgi-bin/readmsg/Copy+of+Untitled+Diagram.drawio.png?x-email=tima1002100@mail.ru&rid=422145464640787043908803797562528950897&&id=16749010860001323330%3B0%3B1&project=cloud&x-email=tima1002100%40mail.ru)
+![Блок-схема](https://avatars.mds.yandex.net/get-images-cbir/1924655/UBH7tQc6pQL7vifgUuwDvQ2443/ocr)
